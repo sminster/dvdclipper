@@ -11,8 +11,6 @@
 
 #include <iostream>
 
-#include "/home/scott/dev/debug.h"
-
 using namespace std;
 
 DvdClip::DvdClip(const QString& dvdDevice,
